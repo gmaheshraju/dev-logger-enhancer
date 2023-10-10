@@ -4,7 +4,7 @@ A developer-friendly logging utility for Node.js applications.Hobby Project
 
 ## Features
 
-- Enhanced logging levels for different types of log messages.
+- Enhanced logging levels for different types of logs.
 - Contextual logging to provide additional information about the source of log messages.
 - Customizable output formats, including plain text, JSON, and color-coded console output.
 
