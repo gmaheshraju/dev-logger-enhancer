@@ -1,6 +1,6 @@
 # dev-logger-enhancer
 
-A developer-friendly logging utility for Node.js applications.Hobby Project
+A developer-friendly logging utility for Node.js applications.
 
 ## Features
 
