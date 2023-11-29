@@ -1,4 +1,4 @@
-# dev-logger-enhancer
+# dev-logger
 
 A developer-friendly logging utility for Node.js applications.
 
